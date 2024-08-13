@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, We're Creepercraft Inc.</h1>
+<h1 align="center">Hi 👋, We're the Creepercraft Inc. Project</h1>
 <h3 align="center">A project about Minecraft and more</h3>
 
 - 🔭 We're currently working on [Creepercraft](https://cc.obl.ong)
