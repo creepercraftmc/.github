@@ -8,7 +8,7 @@
 - 📫 How to reach us **jeki62@creepercraft.eu.org**
 - 👨‍💻 All of our projects are available at **[https://github.com/creepercraftoff](https://github.com/creepercraftoff)**
 - 📝We write articles on **X (ex Twitter)** [here](https://twitter.com/creepercraftoff)
-- 📄 Know about our experiences [here](https://nohello.com) lol
+- 📄 Know about our experiences [here](https://nohello.net) lol
 - ⚡ Fun fact **we don't spend money**
 
 <div> <a href="https://twitter.com/creepercraftoff" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
