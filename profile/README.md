@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, We're the Creepercraft Inc. Project</h1>
 <h3 align="center">A project about Minecraft and more</h3>
 
-- 🔭 We're currently working on [Creepercraft](https://cc.obl.ong)
-- 🤝 We're looking for help with [CreeperLAB](https://creeperlab.obl.ong/)
+- 🔭 We're currently working on [Creepercraft](https://creepercraft.xyz)
+- 🤝 We're looking for help with [CreeperLAB](https://creeperlab.xyz/)
 - 🌱 We're currently learning **How to breathe**
 - 💬 Ask us about **what the project is about**
 - 📫 How to reach us **jeki62@creepercraft.eu.org**
