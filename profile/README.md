@@ -9,7 +9,7 @@
 - 👨‍💻 All of our projects are available at **[https://github.com/creepercraftoff](https://github.com/creepercraftoff)**
 - 📝We write articles on **X (ex Twitter)** [here](https://twitter.com/creepercraftoff)
 - 📄 Know about our experiences [here](https://nohello.net) lol
-- ⚡ Fun fact **we don't spend money**
+- ⚡ Fun fact **behind the project there is just one guy, who learned to do everything all by himself**
 
 <div> <a href="https://twitter.com/creepercraftoff" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
 <a href="https://github.com/creepercraftoff" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
