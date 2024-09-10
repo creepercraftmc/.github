@@ -1,12 +1,12 @@
-<h1 align="center">Hi 👋, We're the Creepercraft Inc. Project</h1>
+<h1 align="center">Hi 👋, We're the Creepercraft Project</h1>
 <h3 align="center">A project about Minecraft and more</h3>
 
 - 🔭 We're currently working on [Creepercraft](https://creepercraft.xyz)
 - 🤝 We're looking for help with [CreeperLAB](https://creeperlab.xyz/)
 - 🌱 We're currently learning **How to breathe**
 - 💬 Ask us about **what the project is about**
-- 📫 How to reach us **jeki62@creepercraft.eu.org**
-- 👨‍💻 All of our projects are available at **[https://github.com/creepercraftoff](https://github.com/creepercraftoff)**
+- 📫 How to reach us **support@creepercraft.store**
+- 👨‍💻 All of our projects are available at **[Github / creepercraftoff](https://github.com/creepercraftoff)**
 - 📝We write articles on **X (ex Twitter)** [here](https://twitter.com/creepercraftoff)
 - 📄 Know about our experiences [here](https://nohello.net) lol
 - ⚡ Fun fact **behind the project there is just one guy, who learned to do everything all by himself**
